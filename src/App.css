@@ -55,7 +55,7 @@
   width: 49.8%;
 }
 
-#preview {
+#preview-section {
   background-color: firebrick;
   height: 100%;
   width: 49.8%;
@@ -74,7 +74,7 @@
   height: 87%;
 }
 
-#preview-output{
+#preview{
   background-color: white;
   border: 2px solid #89d0e5;
   padding-top: 3px;
@@ -82,10 +82,21 @@
   width: 95%;
   height: 87%;
   overflow: auto;
+  color: black;
+}
+
+blockquote{
+  background-color: #75787c9c;
+  font-size: 0.8em;
+}
+
+code{
+  background-color: green;
 }
 
 #render-section {
   color: red;
+  background-color: orange;
 }
 
 .App-link {
