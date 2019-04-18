@@ -26,7 +26,7 @@ Feel free to use inline html right on markdown.  Just remember to place it aroun
 
 Or use blockquotes to provide testimonials about this application
 
-> It's pretty cool, I guess. It's allright.
+> "It's pretty cool, It's alright. I guess."
 
 You can also use programming code with markdown
 
