@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dvislearning/markdown-previewer/precache-manifest.38b91b4852be2ba0eabbe421648a6286.js"
+  "/dvislearning/markdown-previewer/precache-manifest.0e2b0a7e0b11809f5d6ee81e1eb1d7d1.js"
 );
 
 workbox.clientsClaim();
