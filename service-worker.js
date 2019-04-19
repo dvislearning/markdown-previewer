@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dvislearning/markdown-previewer/precache-manifest.0e2b0a7e0b11809f5d6ee81e1eb1d7d1.js"
+  "/markdown-previewer/precache-manifest.b941b8e408fadd19dbedfad8435e2820.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dvislearning/markdown-previewer/index.html", {
+workbox.routing.registerNavigationRoute("/markdown-previewer/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

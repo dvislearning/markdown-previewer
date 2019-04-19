@@ -1,13 +1,13 @@
 {
-  "main.css": "/dvislearning/markdown-previewer/static/css/main.9bc48f53.chunk.css",
-  "main.js": "/dvislearning/markdown-previewer/static/js/main.4d7fd3c7.chunk.js",
-  "main.js.map": "/dvislearning/markdown-previewer/static/js/main.4d7fd3c7.chunk.js.map",
-  "runtime~main.js": "/dvislearning/markdown-previewer/static/js/runtime~main.3d1b6b3b.js",
-  "runtime~main.js.map": "/dvislearning/markdown-previewer/static/js/runtime~main.3d1b6b3b.js.map",
-  "static/js/2.a8e1d190.chunk.js": "/dvislearning/markdown-previewer/static/js/2.a8e1d190.chunk.js",
-  "static/js/2.a8e1d190.chunk.js.map": "/dvislearning/markdown-previewer/static/js/2.a8e1d190.chunk.js.map",
-  "index.html": "/dvislearning/markdown-previewer/index.html",
-  "precache-manifest.0e2b0a7e0b11809f5d6ee81e1eb1d7d1.js": "/dvislearning/markdown-previewer/precache-manifest.0e2b0a7e0b11809f5d6ee81e1eb1d7d1.js",
-  "service-worker.js": "/dvislearning/markdown-previewer/service-worker.js",
-  "static/css/main.9bc48f53.chunk.css.map": "/dvislearning/markdown-previewer/static/css/main.9bc48f53.chunk.css.map"
+  "main.css": "/markdown-previewer/static/css/main.9bc48f53.chunk.css",
+  "main.js": "/markdown-previewer/static/js/main.6dda627a.chunk.js",
+  "main.js.map": "/markdown-previewer/static/js/main.6dda627a.chunk.js.map",
+  "runtime~main.js": "/markdown-previewer/static/js/runtime~main.2b49566a.js",
+  "runtime~main.js.map": "/markdown-previewer/static/js/runtime~main.2b49566a.js.map",
+  "static/js/2.a8e1d190.chunk.js": "/markdown-previewer/static/js/2.a8e1d190.chunk.js",
+  "static/js/2.a8e1d190.chunk.js.map": "/markdown-previewer/static/js/2.a8e1d190.chunk.js.map",
+  "index.html": "/markdown-previewer/index.html",
+  "precache-manifest.b941b8e408fadd19dbedfad8435e2820.js": "/markdown-previewer/precache-manifest.b941b8e408fadd19dbedfad8435e2820.js",
+  "service-worker.js": "/markdown-previewer/service-worker.js",
+  "static/css/main.9bc48f53.chunk.css.map": "/markdown-previewer/static/css/main.9bc48f53.chunk.css.map"
 }
